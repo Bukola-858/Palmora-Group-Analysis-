@@ -45,4 +45,11 @@ Before analysis, I'll clean the data by:
 
 The bonus calculation shows Abuja receives the highest bonus payout, followed by Lagos and Kaduna. This distribution should be reviewed for equity across regions.
 
-This analysis provides Palmoria Group with actionable insights to address gender inequality and improve their compensation practices.
+## Conclusion 
+This analysis provides Palmoria Group with actionable insights to address gender inequality and improve their compensation practices. 
+This project demonstrates how **data-driven HR analytics** can uncover systemic biases and guide evidence-based decision-making. Palmoria Group now has a **clear action plan** to address gender inequality, ensuring a **fairer, more equitable workplace** for all employees.  
+
+### **Tools & Techniques Used**
+📌 **Excel**
+
+📌 **Statistical Analysis**
